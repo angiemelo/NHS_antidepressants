@@ -1,4 +1,4 @@
-# NHS Antidepressant Prescribing Analysis
+# NHS Antidepressants Prescribing Analysis
 
 ## Project Overview
 This project focuses on analysing trends in antidepressant prescribing in the UK, with a detailed breakdown of prescribing volumes and costs. The dataset explores national and regional patterns, monthly trends and the drivers behind fluctuations in prescription items and associated costs for individual drugs. By studying these trends, the analysis aims to provide insights into healthcare prescribing practices, drug pricing dynamics and potential impacts on healthcare expenditure.
