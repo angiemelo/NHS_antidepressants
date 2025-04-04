@@ -38,8 +38,8 @@ The dataset (`pca_regional_drug_summary_df`) contains the following columns:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-  git clone https://github.com/angiemelo/NHS_antidepressants.git
-  cd NHS_antidepressants
+   git clone https://github.com/angiemelo/NHS_antidepressants.git
+   cd NHS_antidepressants
    ```
 2. Install dependencies:
    ```bash
